@@ -2,10 +2,10 @@ import os
 import shutil
 
 # Source folder containing jpg files
-SOURCE_DIR = r"C:\Users\mahee\pythonproject\CodeAlpha_Python Programming\Task Automation with Python Scripts Task 3\Game images"
+SOURCE_DIR = r"C:\Users\mahee\pythonproject\CodeAlpha_Python_Programming\Task_Automation_with_Python_Scripts_Task_3\Game_images"
 
 # Destination folder where images will be moved
-DEST_DIR = r"C:\Users\mahee\pythonproject\CodeAlpha_Python Programming\Task Automation with Python Scripts Task 3\image"
+DEST_DIR = r"C:\Users\mahee\pythonproject\CodeAlpha_Python_Programming\Task_Automation_with_Python_Scripts_Task_3\image"
 
 
 def move_jpg_files(source, destination):
